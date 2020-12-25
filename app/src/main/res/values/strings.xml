@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Permission Viewer</string>
+
+    <string name="read_external_storage_text">READ EXTERNAL STORAGE</string>
+    <string name="read_sms">READ SMS</string>
+    <string name="read_call">READ CALL LOG</string>
+</resources>
